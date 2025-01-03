@@ -66,7 +66,8 @@ endmodule
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![Screenshot (69)](https://github.com/user-attachments/assets/e1593b56-ce62-4ba4-97e5-65fe9e447223)
+![image](https://github.com/user-attachments/assets/12835cd0-362c-4a86-a063-d6ab5157fbc3)
+
 
 
 
